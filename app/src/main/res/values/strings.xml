@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menus</string>
+
+    <string-array name="nama">
+        <item>Ayam Kecap</item>
+        <item>Seblak Ceker</item>
+        <item>Sweke</item>
+
+    </string-array>
+    <string-array name="nim">
+        <item>Ayam Kecap Nomor 1</item>
+        <item>Seblak Pedas</item>
+        <item>Sweke Kodok</item>
+
+    </string-array>
+
+</resources>
